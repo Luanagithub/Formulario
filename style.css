@@ -1,0 +1,38 @@
+body{
+    background-image: url(ryan-schroeder-Gg7uKdHFb_c-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(2px); 
+}
+#form{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 1px solid white;
+    border-radius: 2em;
+    box-shadow: 1px 0px 5px 1px;
+}
+input{
+    text-align: center;
+}
+input:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+label{
+    height: 4vh;
+}
+label:hover{
+    cursor: pointer;
+    font-size: larger; 
+}
+#campo{
+    width: fit-content;
+    height: 8vh;
+    font-size:20pt;
+}
+#campo:hover{
+    cursor: pointer;
+}
+
+
